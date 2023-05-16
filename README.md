@@ -26,7 +26,9 @@ pipeline {
         stage('Deploy') {
             steps {
                 sh 'make publish'
+              
             }
         }
     }
 }
+I have encountered errors during deployment and i have tried to fixed them but the time was short.
