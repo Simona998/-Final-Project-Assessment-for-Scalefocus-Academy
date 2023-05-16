@@ -31,4 +31,5 @@ pipeline {
         }
     }
 }
-I have encountered errors during deployment and i have tried to fixed them but the time was short.
+
+I have encountered errors during deployment and i have tried to fixed them but unsuccessfully.
